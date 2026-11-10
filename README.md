@@ -25,4 +25,4 @@ B.Tech student at Amal Jyothi College of Engineering, Kerala, working where **cy
 - Working through the Google Cybersecurity certificate and TryHackMe
 - Completed: NPTEL Ethical Hacking · Smart India Hackathon
 
-📫 sonalramesh03@gmail.com
+ sonalramesh03@gmail.com
