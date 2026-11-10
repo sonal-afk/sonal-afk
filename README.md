@@ -1,4 +1,4 @@
-## Hi, I'm Sonal 👋
+## Hi, I'm Sonal 
 
 **I build tools that catch attacks — and I test them until they break.**
 
