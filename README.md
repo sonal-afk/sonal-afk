@@ -4,7 +4,7 @@
 
 B.Tech student at Amal Jyothi College of Engineering, Kerala, working where **cybersecurity meets AI**: web vulnerability detection, prompt-injection defence for AI agents, and phishing detection.
 
-### 🔐 What I've built
+### What I've built
 
 | Project | What it does | Result |
 |---|---|---|
@@ -12,14 +12,14 @@ B.Tech student at Amal Jyothi College of Engineering, Kerala, working where **cy
 | [**AgentGuard**](https://github.com/sonal-afk/agentguard) | Fully local defence for tool-using AI agents: checks every sensitive tool call against what the user actually asked for. Evaluated on AgentDojo. | Attack success **100% → 0%** on a banking prompt-injection case, no utility loss |
 | [**Phishing Email Detection**](https://github.com/sonal-afk/phishing-email-detection) | Feed-forward neural network on TF-IDF features, compared against a logistic-regression baseline with an ablation study. | **95.83% F1**, 98.45% recall on 2,795 test emails |
 
-### 🧰 Tools I use
+### Tools I used
 
 **Languages:** Python · Bash · SQL · JavaScript
 **Security:** OWASP Top 10 · web app testing · threat & vulnerability analysis · recon automation · LLM security
 **ML:** PyTorch · Hugging Face Transformers · scikit-learn · Ollama
 **Platforms:** Linux · Flask · Chrome extensions
 
-### 🌱 Right now
+### Right now
 
 - Learning threat hunting and OSINT
 - Working through the Google Cybersecurity certificate and TryHackMe
